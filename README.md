@@ -4,4 +4,4 @@ Assignment R code workngs and pdf report/ plots of R code output
 -> Assignments:
 
 1. Assignment 1 (Payoff Diagrams)
-2.
+2. Assignment 2 (Basic heging with forwards)
