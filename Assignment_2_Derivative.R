@@ -1,5 +1,4 @@
 # F79DF Assignment 2
-# H00280633
 
 # m being contract multiple
 m<-100
