@@ -17,5 +17,5 @@ par(mfrow=c(3,2), oma = c(0, 0, 2, 0));
 for(i in 1:6){ 
   plot(ST, data[[i]],  xlab='Price at T', ylab='Payoff', main=paste('Plot (',label[i], ')'), type='l', col=color[i]) 
   }
-mtext('F79DF Assignment 1, outer = TRUE, cex = 1.3); 
+mtext('F79DF Assignment 1', outer = TRUE, cex = 1.3); 
 dev.off()
